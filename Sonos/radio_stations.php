@@ -137,7 +137,7 @@ function get_available_stations(){
             Array( ('name') => "A State Of Trance",
                    ('logo') => "http://cdn-radiotime-logos.tunein.com/s252026q.png",
                    ('url')  => "x-sonosapi-stream:s142421?sid=254" ),
-            Array( ('name') => "RevivalKult",
+            Array( ('name') => "TestRadioStation",
                    ('logo') => "http://cdn-radiotime-logos.tunein.com/s186710q.png",
                    ('url')  => "x-sonosapi-stream:s186710?sid=254" )
                          );
