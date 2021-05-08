@@ -81,7 +81,7 @@
                                  { "label": "SWR3",                     "value": "SWR3" },
                                  { "label": "WDR2",                     "value": "WDR2" },
                                  { "label": "WDR2 BI",                  "value": "WDR2 BI" },
-                                 { "label": "YouFM",                    "value": "YouFM" }
+                                 { "label": "YouFM_TEST",                    "value": "YouFM" }
                   ] },
 		{ "name": "WebFrontStations",          "type": "ValidationTextBox", "caption": "Stations in WebFront" },
 		{ "name": "AlbumArtHeight",            "type": "NumberSpinner",     "caption": "Album Art Hight in WebFront"}
