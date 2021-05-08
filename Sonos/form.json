@@ -35,7 +35,7 @@
                 { "name": "IncludeTunein",             "type": "CheckBox",          "caption": "Include TuneIn favorites" },
 		{ "name": "FavoriteStation",           "type": "Select",            "caption": "Favorite radio station", 
                     "options": [ 
-                                 { "label": "1LIVE",                    "value": "1LIVE" },
+                                 { "label": "NPO Radio 2",                    "value": "NPO Radio 2" },
                                  { "label": "1LIVE DIGGI",              "value": "1LIVE DIGGI" },
                                  { "label": "917xfm",                   "value": "917xfm" },
                                  { "label": "AC/DC Collection",         "value": "AC/DC Collection"},
