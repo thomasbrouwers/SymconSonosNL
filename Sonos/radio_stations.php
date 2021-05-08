@@ -2,9 +2,9 @@
 function get_available_stations(){
   //Taken URLs from  http://wiki.ubuntuusers.de/internetradio/stationen 
   $RadioStations =  Array(
-            Array( ('name') => "1LIVE",
+            Array( ('name') => "NPO Radio 2",
                    ('logo') => "http://cdn-radiotime-logos.tunein.com/s25260q.png",
-                   ('url')  => "x-rincon-mp3radio://www.wdr.de/wdrlive/media/einslive.m3u" ),
+                   ('url')  => "x-sonosapi-stream:s9483?sid=254&flags=8224&sn=0" ),
             Array( ('name') => "1LIVE DIGGI", 
                    ('logo') => "http://cdn-radiotime-logos.tunein.com/s45087q.png",
                    ('url')  => "x-rincon-mp3radio://www.wdr.de/wdrlive/media/mp3/1live-diggi.m3u" ),
