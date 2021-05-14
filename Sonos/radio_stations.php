@@ -8,7 +8,7 @@ function get_available_stations(){
 	
             Array( ('name') => "538",
                    ('logo') => "http://cdn-radiotime-logos.tunein.com/s25260q.png",
-                   ('url')  => "x-sonosapi-stream:talpa%3a154008?sid=303&flags=8224&sn=3" ),
+                   ('url')  => "x-sonosapi-stream:s6712?sid=254&flags=8224&sn=0" ),
 
             Array( ('name') => "TestRadioStation",
                    ('logo') => "http://cdn-radiotime-logos.tunein.com/s186710q.png",
