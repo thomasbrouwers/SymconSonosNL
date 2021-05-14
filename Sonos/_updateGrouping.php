@@ -1,5 +1,5 @@
 <?
-include_once("../modules/SymconSonos/Sonos/sonosAccess.php");
+include_once("../modules/SymconSonosNL/Sonos/sonosAccess.php");
 
 $sonosInstanceID       = IPS_GetParent($_IPS["SELF"]);
 $memberOfGoup          = GetValueInteger(IPS_GetObjectIDByName("MemberOfGroup", $sonosInstanceID));
