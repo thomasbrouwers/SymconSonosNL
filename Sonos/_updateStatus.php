@@ -1,6 +1,6 @@
 <?
-include_once("../modules/SymconSonos/Sonos/sonosAccess.php");
-include_once("../modules/SymconSonos/Sonos/radio_stations.php");
+include_once("../modules/SymconSonosNL/Sonos/sonosAccess.php");
+include_once("../modules/SymconSonosNL/Sonos/radio_stations.php");
 
 $ip                    = gethostbyname(IPS_GetProperty(IPS_GetParent($_IPS["SELF"]), "IPAddress"));
 $timeout               = IPS_GetProperty(IPS_GetParent($_IPS["SELF"]), "TimeOut");
