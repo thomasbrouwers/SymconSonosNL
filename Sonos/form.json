@@ -37,7 +37,7 @@
                     "options": [ 
                                  { "label": "NPO Radio 2",                    "value": "NPO Radio 2" },
                                  { "label": "538",              "value": "538" },
-
+                                 { "label": "YouFM_TEST",                    "value": "YouFM" }
                   ] },
 		{ "name": "WebFrontStations",          "type": "ValidationTextBox", "caption": "Stations in WebFront" },
 		{ "name": "AlbumArtHeight",            "type": "NumberSpinner",     "caption": "Album Art Hight in WebFront"}
